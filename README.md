@@ -1,6 +1,8 @@
 # Connect4_AI
     # Connect Four Game with Minimax AI Player
-    ##Run the game  by executing Playgame 
+    
+## Run the game  by executing Playgame 
+
 
 This Python script implements the Connect Four game with an AI player using the minimax algorithm. Below are key points about the script:
 
